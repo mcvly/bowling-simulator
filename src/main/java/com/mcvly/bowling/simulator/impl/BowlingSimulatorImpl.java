@@ -9,7 +9,7 @@ import com.mcvly.bowling.simulator.BowlingSimulator;
 import com.mcvly.bowling.simulator.Frame;
 
 /**
- * @author <a href="mailto:RMalyona@luxoft.com">Ruslan Malyona</a>
+ * @author mcvly
  * @since 24.12.13
  */
 public class BowlingSimulatorImpl implements BowlingSimulator {

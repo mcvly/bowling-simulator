@@ -1,7 +1,7 @@
 package com.mcvly.bowling.simulator;
 
 /**
- * @author <a href="mailto:RMalyona@luxoft.com">Ruslan Malyona</a>
+ * @author mcvly
  * @since 24.12.13
  */
 public class Frame {

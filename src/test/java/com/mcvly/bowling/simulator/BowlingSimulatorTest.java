@@ -12,7 +12,7 @@ import org.junit.Test;
 import com.mcvly.bowling.simulator.impl.BowlingSimulatorImpl;
 
 /**
- * @author <a href="mailto:RMalyona@luxoft.com">Ruslan Malyona</a>
+ * @author mcvly
  * @since 24.12.13
  */
 public class BowlingSimulatorTest {
